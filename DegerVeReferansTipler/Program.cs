@@ -18,7 +18,7 @@ namespace DegerVeReferansTipler
             int[] sayilar2 = new int[] { 10, 20, 30 };
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
-            //saylar1[0] = 999
+            //saylar1[0] = 999 
 
         }
     }
